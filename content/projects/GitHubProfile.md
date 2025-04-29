@@ -4,7 +4,7 @@ title: 'Github Profile'
 github: 'https://github.com/YassineManai/YassineManai'
 tech:
   - HTML
-showInProjects: true
+showInProjects: false
 ---
 
 A simple profile Design for a github profile
