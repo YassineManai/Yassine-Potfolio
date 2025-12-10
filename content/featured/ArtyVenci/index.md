@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'ArtyVenci'
-cover: './Login.png'
-github: 'https://github.com/YassineManai/Desktop_JavaFx_ArtyVenci'
-external: ''
+title: 'Artvinci - Digital Art Gallery Platform'
+cover: './demo.png'
+github: 'https://github.com/ArtyVinci'
+external: 'https://artvinci-frontend.vercel.app'
 tech:
-  - JavaFx
-  - MySQL
-  - Java
-  - Xml
+  - React
+  - Python 
+  - MongoDB 
+  - Tailwind CSS
   
 ---
 
-This application is an online gallery designed to promote artists globally, offering a platform for the discovery, purchase, and sharing of artwork. It features personalized artist profiles, curated collections, and secure e-commerce for direct purchases. Users can engage with the art community through social sharing, follow artists, and receive tailored recommendations. Built for both web and mobile, the app provides a seamless experience, supporting artists in reaching new audiences while connecting art lovers with diverse and unique pieces..
+A modern, elegant digital art gallery platform built with React 18, Vite, Tailwind CSS, and Framer Motion. Artvinci connects artists and art enthusiasts, providing a seamless platform to discover, collect, and celebrate digital art.

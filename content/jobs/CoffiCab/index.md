@@ -1,12 +1,18 @@
 ---
-date: '2024-06-01'
+date: '2025-06-01'
 title: 'Intership Engineer'
 company: 'CoffiCab'
 location: 'Tunisia'
-range: 'Jun 2024 - Present'
+range: 'Jun 2025 - Aug 2025'
 url: 'https://beta.coficab.com'
 ---
 
-The goal of this project is to centralize data into a modern, intuitive Dashboard application. This will enable real-time monitoring of production information and ensure effective control over machines and processes. The Dashboard will provide a clear, interactive overview, simplifying daily operations management and enhancing operational efficiency.
+Contributed to the architectural and functional redesign of an article
+management module, migrating from a monolithic WinDev solution to a
+microservices-based architecture with .NET Core and React.
+- Developed a Dashboard interface in React for system configuration, user management, software updates, and production monitoring.
+- Designed and implemented microservice integration between CMS Management and Execution Management modules, ensuring smooth data flow and interoperability.
+- Enhanced real-time data analysis and reporting features, improving operational efficiency.
+- Applied best practices in software engineering, including logging, version control, and collaborative teamwork in an Agile environment.
 - Methodology : SCRU﻿M
-- Technologies : MERN stack ( Mongodb,Expressjs,React,Node.js) , React Native
+- Technologies : React Js  , .NET , SQL Server , Docker
